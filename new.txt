@@ -1,0 +1,6 @@
+/****************************************/
+
+1.Build setup is complex
+2.desing
+3.rest interface need to optimize
+4.qml desing should change(there is no point of many windows)
